@@ -58,7 +58,7 @@ This project uses the famous [Titanic dataset](https://www.kaggle.com/c/titanic)
    ```bash
    git clone https://github.com/Keshara11/Titanic-App.git
    cd Titanic-App
-````
+
 
 2. **Create and activate a virtual environment** (optional but recommended)
 
@@ -82,8 +82,6 @@ This project uses the famous [Titanic dataset](https://www.kaggle.com/c/titanic)
    streamlit run app.py
    ```
 
----
-
 ## 📊 Model Training
 
 The model was trained using:
@@ -99,13 +97,13 @@ Training steps can be found in the `notebooks/` folder.
 ## 📸 Screenshots
 
 **Home Page**
-![Home](screenshots/home.png)
+![Home](screenshots/home.PNG)
 
 **Prediction Form**
-![Prediction](screenshots/predict.png)
+![Prediction](screenshots/predict.PNG)
 
 **Visualizations**
-![Visualizations](screenshots/visuals.png)
+![Visualizations](screenshots/visuals.PNG)
 
 ---
 
