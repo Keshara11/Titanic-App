@@ -1,10 +1,3 @@
-Got it — I’ll draft a **README.md** for your Titanic-App based on what I know from your project requirements, your GitHub repo name, and the typical structure of a Titanic Streamlit app you’ve been working on.
-
-Here’s a ready-to-use **README.md**:
-
----
-
-```markdown
 # Titanic Survival Prediction App
 
 A Streamlit-based machine learning web application that predicts the survival chances of Titanic passengers based on user input or dataset features.  
@@ -139,9 +132,3 @@ GitHub: [@Keshara11](https://github.com/Keshara11)
 
 ```
 
----
-
-If you’d like, I can also **add badges**, **improve screenshots placement**, and **write a “How it Works” section** that explains the Streamlit page navigation and the ML pipeline in detail.  
-
-Do you want me to also **include the exact model training steps** from your notebook into the README so it’s a complete reference? That would make it even better for graders and future users.
-```
